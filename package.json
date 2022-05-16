@@ -2,7 +2,7 @@
   "name": "mac-ca-vscode",
   "displayName": "Mac CA VSCode",
   "description": "Make all certificates in Keychain Access available to VS Code extensions",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.0.0"
   },
