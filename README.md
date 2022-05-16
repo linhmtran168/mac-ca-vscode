@@ -15,7 +15,7 @@ search for `mac-ca-vscode` and press `Install`.
 
 ## Caveats
 
-- After installing, a restart my required for the changes to take effect.
+- After installing, a restart is required for the changes to take effect.
 - Only works in MacOS, for other OS, it will do nothing.
 
 ## Credits
