@@ -12,6 +12,13 @@
 	"activationEvents": [
         "*"
 	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/linhmtran168/mac-ca-vscode"
+	},
+	"bugs": {
+		"url": "https://github.com/linhmtran168/mac-ca-vscode"
+	},
 	"main": "./dist/extension.js",
 	"scripts": {
 		"vscode:prepublish": "npm run package",
@@ -25,7 +32,7 @@
 		"test": "node ./out/test/runTest.js"
 	},
 	"devDependencies": {
-		"@types/vscode": "^1.67.0",
+		"@types/vscode": "^1.0.0",
 		"@types/glob": "^7.2.0",
 		"@types/mocha": "^9.1.1",
 		"@types/node": "14.x",
