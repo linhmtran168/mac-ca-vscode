@@ -9,9 +9,9 @@ It replaces `tls.createSecureContext` function with a custom function that load 
 
 ## Installation
 
-Install from [here][ukoloff.win-ca] or open VS Code,
+Install from [here](https://marketplace.visualstudio.com/items?itemName=linhmtran168.mac-ca-vscode) or open VS Code,
 hit `Ctrl+Shift+X` (Extensions pane),
-search for `win-ca` and press `Install`.
+search for `mac-ca-vscode` and press `Install`.
 
 ## Caveats
 
