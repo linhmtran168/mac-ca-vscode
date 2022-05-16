@@ -6,6 +6,11 @@
 	"engines": {
 		"vscode": "^1.0.0"
 	},
+	"publisher": "linhmtran168",
+	"author": {
+		"name": "Linh M. Tran",
+		"email": "linh.mtran168@live.com"
+	},
 	"categories": [
 		"Other"
 	],
